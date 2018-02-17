@@ -33,8 +33,9 @@ Próximos artigos:
 ## VERSION CONTROL
 1. Prototyping with [Rodrigo Medeiro's portfolio] (http://rodrigo-medeiros.github.io/) as reference
 2. Restructuring using Vue.JS with navigation bar, content and footer
-2.1 Fixing responsive layout
-[CURRENT] 2.2 Version number
+| 2.1 Fixing responsive layout
+| 2.2 Version number
+| [CURRENT] 2.3 Refactoring and logo
 3. Navigation menu
 4. Resume
 5. Projects
@@ -43,8 +44,9 @@ Próximos artigos:
 
 1. Protótipo utilizando como base o [portfólio do Rodrigo Medeiros] (http://rodrigo-medeiros.github.io/)
 2. Reestruturação em Vue.JS contendo a barra de navegação, conteúdo com frases e footer
-2.1 Arrumando o layout responsivo
-[ATUAL] 2.2 Inserção de número de versão
+| 2.1 Arrumando o layout responsivo
+| 2.2 Inserção de número de versão
+| [ATUAL] 2.3 Refatoração do layout e inserção de logo
 3. Menu de navegação
 4. Currículo
 5. Projetos
