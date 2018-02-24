@@ -6,12 +6,12 @@
 > Esse website foi criado utilizando Vue.JS.
 
 ## WEBSITE
-You can see the current version [here] (http://laurenmariaferreira.github.io/)
-Você pode ver a versão atual [aqui] (http://laurenmariaferreira.github.io/)
+You can see the current version [here](http://laurenmariaferreira.github.io/)
+Você pode ver a versão atual [aqui](http://laurenmariaferreira.github.io/)
 
 ## SOURCE CODE
-This repository just contains the built files. Source code can be found [here] (https://github.com/laurenmariaferreira/personal-site)
-Esse repositório contém apenas os arquivos de build. O código fonte pode ser encontrado [aqui] (https://github.com/laurenmariaferreira/personal-site)
+This repository just contains the built files. Source code can be found [here](https://github.com/laurenmariaferreira/personal-site)
+Esse repositório contém apenas os arquivos de build. O código fonte pode ser encontrado [aqui](https://github.com/laurenmariaferreira/personal-site)
 
 ## HOW TO
 Next articles:
@@ -33,24 +33,26 @@ Próximos artigos:
 - Build: Subindo projeto para o GitHub Pages
 
 ## VERSION CONTROL
-1. Prototyping with [Rodrigo Medeiro's portfolio] (http://rodrigo-medeiros.github.io/) as reference
+1. Prototyping with [Rodrigo Medeiro's portfolio](http://rodrigo-medeiros.github.io/) as reference
 2. Restructuring using Vue.JS with navigation bar, content and footer
 | 2.1 Fixing responsive layout
 | 2.2 Version number
 | 2.3 Refactoring and logo
-| [CURRENT] 2.4 Copyright, titles and favicon
+| 2.4 Copyright, titles and favicon
+| [CURRENT] 2.5 Layout fixes
 3. Navigation menu
 4. Resume
 5. Projects
 6. Last articles
 (at some point) animated logo
 
-1. Protótipo utilizando como base o [portfólio do Rodrigo Medeiros] (http://rodrigo-medeiros.github.io/)
+1. Protótipo utilizando como base o [portfólio do Rodrigo Medeiros](http://rodrigo-medeiros.github.io/)
 2. Reestruturação em Vue.JS contendo a barra de navegação, conteúdo com frases e footer
 | 2.1 Arrumando o layout responsivo
 | 2.2 Inserção de número de versão
 | 2.3 Refatoração do layout e inserção de logo
-| [ATUAL] 2.4 Direitos, titles e ícone
+| 2.4 Direitos, titles e ícone
+| [ATUAL] 2.5 Correções no layout
 3. Menu de navegação
 4. Currículo
 5. Projetos
