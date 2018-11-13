@@ -13,25 +13,6 @@ Você pode ver a versão atual [aqui](http://laurenmariaferreira.github.io/)
 This repository just contains the built files. Source code can be found [here](https://github.com/laurenmariaferreira/personal-site)
 Esse repositório contém apenas os arquivos de build. O código fonte pode ser encontrado [aqui](https://github.com/laurenmariaferreira/personal-site)
 
-## HOW TO
-Next articles:
-- Idea: Research and references
-- Planning: Mockup, structure and components
-- Hands-on: Layout
-- Hands-on: Content
-- Hands-on: Footer
-- Hands-on: Language switch
-- Build: Uploading project to GitHub Pages
-
-Próximos artigos:
-- Ideia: Pesquisa e referências
-- Planejamento: Mockup, estrutura e components
-- Mão na massa: Layout
-- Mão na massa: Conteúdo
-- Mão na massa: Footer
-- Mão na massa: Botão de troca de linguagem
-- Build: Subindo projeto para o GitHub Pages
-
 ## VERSION CONTROL
 1. Prototyping with [Rodrigo Medeiro's portfolio](http://rodrigo-medeiros.github.io/) as reference
 2. Restructuring using Vue.JS with navigation bar, content and footer
@@ -40,11 +21,6 @@ Próximos artigos:
 | 2.3 Refactoring and logo
 | 2.4 Copyright, titles and favicon
 | [CURRENT] 2.5 Layout fixes
-3. Navigation menu
-4. Resume
-5. Projects
-6. Last articles
-(at some point) animated logo
 
 1. Protótipo utilizando como base o [portfólio do Rodrigo Medeiros](http://rodrigo-medeiros.github.io/)
 2. Reestruturação em Vue.JS contendo a barra de navegação, conteúdo com frases e footer
@@ -53,11 +29,6 @@ Próximos artigos:
 | 2.3 Refatoração do layout e inserção de logo
 | 2.4 Direitos, titles e ícone
 | [ATUAL] 2.5 Correções no layout
-3. Menu de navegação
-4. Currículo
-5. Projetos
-6. Últimos artigos
-(em algum ponto) logo animado
 
 ## META
 
